@@ -1,6 +1,6 @@
 import './App.css'
 import Header from "./components/header/Header"
-
+import Body from "./components/main/body"
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Header/>
-      <h1>Hello toto</h1>
+      <Body/>
     </>
   )
 }
