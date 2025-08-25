@@ -1,0 +1,9 @@
+.carte {
+    display: flex;
+    flex-direction: column;
+}
+.plat{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
