@@ -15,6 +15,7 @@ export default function Carte() {
                     <li key={m.id} className={style.plat}>
                         <h3>{m.name}</h3>
                         <p>{m.price} €</p>
+                        <button>{m.allergene}</button>
                     </li>
                 ))}
             </ul>
