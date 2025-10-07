@@ -20,16 +20,16 @@ export const menu: MenuType[] = [
      {
 		id: 2,
         name: "Steak",
+        price: 15		
+	},
+    {
+		id: 2,
+        name: "Steak tartare",
         price: 16		
 	},
+    {
+		id: 2,
+        name: "filet de boeuf",
+        price: 19		
+	},
 ]
-// export const allergie :AllergeneType[] = [
-//     {
-//         id:1,
-//         content:"Contient : gluten, lait, œuf, moutarde, sulfites"
-//     },
-//     {
-//         id:2,
-//         content:"Contient "
-//     }
-// ]
